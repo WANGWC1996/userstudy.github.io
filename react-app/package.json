@@ -1,9 +1,9 @@
 {
-  "name": "find-your-favorite",
+  "name": "user-study",
   "version": "0.0.1",
   "description": "",
   "keywords": [],
-  "main": "src/index_test.js",
+  "main": "src/index.js",
   "homepage": ".",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.16",
