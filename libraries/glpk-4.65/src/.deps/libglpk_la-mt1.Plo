@@ -1,0 +1,70 @@
+libglpk_la-mt1.lo: misc/mt1.c env/env.h env/stdc.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/ctype.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/ctype.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/errno.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/errno.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/stddef.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/__stddef_max_align_t.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/stdint.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/float.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/float.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/limits.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/math.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/math.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/setjmp.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/setjmp.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdarg.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/stdarg.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/stdio.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/strings.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/time.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/time.h \
+  ../config.h misc/mt1.h
+env/env.h:
+env/stdc.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/ctype.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/ctype.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/features.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/errno.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/errno.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/stddef.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/__stddef_max_align_t.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/stdint.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/float.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/float.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/limits.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/limits.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/math.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/math.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/setjmp.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/setjmp.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdarg.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/stdarg.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/stdio.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/string.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/strings.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/time.h:
+/Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/time.h:
+../config.h:
+misc/mt1.h:

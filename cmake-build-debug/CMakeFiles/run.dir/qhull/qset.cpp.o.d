@@ -1,0 +1,22 @@
+CMakeFiles/run.dir/qhull/qset.cpp.o: \
+  /Users/wangweicheng/UserStudy/qhull/qset.cpp \
+  /Users/wangweicheng/UserStudy/qhull/qset.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/stdio.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config_site \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/stdio.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/stddef.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/stddef.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/__stddef_max_align_t.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/stdint.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/lib/clang/17/include/stdint.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /Users/wangweicheng/UserStudy/qhull/mem.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/string.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /Users/wangweicheng/UserStudy/libraries/emsdk/upstream/emscripten/cache/sysroot/include/strings.h

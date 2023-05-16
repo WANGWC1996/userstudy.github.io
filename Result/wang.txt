@@ -1,0 +1,76 @@
+Rank: 1 Utility: 1.59712
+Rank: 2 Utility: 1.49421   difference ratio to 1: 0.0644346  result: Y
+Rank: 3 Utility: 1.47807   difference ratio to 1: 0.0745374  result: Y
+Rank: 4 Utility: 1.4767   difference ratio to 1: 0.0753948  result: Y
+Rank: 5 Utility: 1.47458   difference ratio to 1: 0.076725  result: Y
+Rank: 6 Utility: 1.46639   difference ratio to 1: 0.0818548  result: Y
+Rank: 7 Utility: 1.46026   difference ratio to 1: 0.085691  result: Y
+Rank: 8 Utility: 1.46012   difference ratio to 1: 0.0857778  result: Y
+Rank: 9 Utility: 1.45592   difference ratio to 1: 0.0884084  result: Y
+Rank: 10 Utility: 1.45586   difference ratio to 1: 0.0884452  result: Y
+Rank: 11 Utility: 1.45568   difference ratio to 1: 0.0885599  result: Y
+Rank: 18 Utility: 1.43473   difference ratio to 1: 0.101676  result: Y
+Rank: 19 Utility: 1.43028   difference ratio to 1: 0.104462  result: Y
+Rank: 20 Utility: 1.42622   difference ratio to 1: 0.107003  result: Y
+Rank: 21 Utility: 1.42613   difference ratio to 1: 0.107059  result: Y
+Rank: 22 Utility: 1.41827   difference ratio to 1: 0.111982  result: Y
+Rank: 23 Utility: 1.40994   difference ratio to 1: 0.117199  result: Y
+Rank: 24 Utility: 1.40881   difference ratio to 1: 0.117905  result: Y
+Rank: 25 Utility: 1.40501   difference ratio to 1: 0.120281  result: Y
+Rank: 26 Utility: 1.40234   difference ratio to 1: 0.121953  result: Y
+Rank: 27 Utility: 1.40116   difference ratio to 1: 0.122692  result: Y
+Rank: 1 Utility: 1.59712
+Rank: 2 Utility: 1.49421
+Rank: 3 Utility: 1.47807
+Rank: 4 Utility: 1.4767
+Rank: 5 Utility: 1.47458
+Rank: 6 Utility: 1.46639   difference ratio to 5: 0.00555609  result: Y
+Rank: 7 Utility: 1.46026   difference ratio to 5: 0.00971113  result: Y
+Rank: 8 Utility: 1.46012   difference ratio to 5: 0.00980512  result: Y
+Rank: 9 Utility: 1.45592   difference ratio to 5: 0.0126543  result: Y
+Rank: 10 Utility: 1.45586   difference ratio to 5: 0.0126942  result: Y
+Rank: 11 Utility: 1.45568   difference ratio to 5: 0.0128184  result: Y
+Rank: 12 Utility: 1.44694   difference ratio to 5: 0.0187426  result: Y
+Rank: 13 Utility: 1.4423   difference ratio to 5: 0.0218883  result: Y
+Rank: 14 Utility: 1.44201   difference ratio to 5: 0.0220833  result: Y
+Rank: 15 Utility: 1.44133   difference ratio to 5: 0.0225442  result: Y
+Rank: 81 Utility: 1.319   difference ratio to 5: 0.10551  result: Y
+Rank: 82 Utility: 1.31854   difference ratio to 5: 0.105822  result: Y
+Rank: 83 Utility: 1.3157   difference ratio to 5: 0.107743  result: Y
+Rank: 84 Utility: 1.3152   difference ratio to 5: 0.108085  result: Y
+Rank: 85 Utility: 1.31494   difference ratio to 5: 0.108258  result: Y
+Rank: 86 Utility: 1.31142   difference ratio to 5: 0.11065  result: Y
+Rank: 87 Utility: 1.30996   difference ratio to 5: 0.111635  result: Y
+Rank: 88 Utility: 1.30801   difference ratio to 5: 0.112959  result: Y
+Rank: 89 Utility: 1.30632   difference ratio to 5: 0.114103  result: Y
+Rank: 90 Utility: 1.30397   difference ratio to 5: 0.115698  result: Y
+Rank: 1 Utility: 1.59712
+Rank: 2 Utility: 1.49421
+Rank: 3 Utility: 1.47807
+Rank: 4 Utility: 1.4767
+Rank: 5 Utility: 1.47458
+Rank: 6 Utility: 1.46639
+Rank: 7 Utility: 1.46026
+Rank: 8 Utility: 1.46012
+Rank: 9 Utility: 1.45592
+Rank: 10 Utility: 1.45586
+Rank: 11 Utility: 1.45568   difference ratio to 10: 0.000125775  result: Y
+Rank: 12 Utility: 1.44694   difference ratio to 10: 0.00612614  result: Y
+Rank: 13 Utility: 1.4423   difference ratio to 10: 0.00931228  result: Y
+Rank: 14 Utility: 1.44201   difference ratio to 10: 0.0095098  result: Y
+Rank: 15 Utility: 1.44133   difference ratio to 10: 0.00997668  result: Y
+Rank: 16 Utility: 1.4398   difference ratio to 10: 0.0110302  result: Y
+Rank: 17 Utility: 1.43497   difference ratio to 10: 0.0143507  result: Y
+Rank: 18 Utility: 1.43473   difference ratio to 10: 0.0145145  result: Y
+Rank: 19 Utility: 1.43028   difference ratio to 10: 0.0175712  result: Y
+Rank: 20 Utility: 1.42622   difference ratio to 10: 0.0203586  result: Y
+Rank: 97 Utility: 1.28865   difference ratio to 10: 0.11485  result: Y
+Rank: 98 Utility: 1.2874   difference ratio to 10: 0.115713  result: Y
+Rank: 99 Utility: 1.28623   difference ratio to 10: 0.116515  result: Y
+Rank: 100 Utility: 1.28564   difference ratio to 10: 0.116918  result: Y
+Rank: 101 Utility: 1.28292   difference ratio to 10: 0.118787  result: Y
+Rank: 102 Utility: 1.27935   difference ratio to 10: 0.121243  result: Y
+Rank: 103 Utility: 1.27795   difference ratio to 10: 0.122206  result: Y
+Rank: 104 Utility: 1.27638   difference ratio to 10: 0.123281  result: Y
+Rank: 105 Utility: 1.27433   difference ratio to 10: 0.12469  result: Y
+Rank: 106 Utility: 1.27424   difference ratio to 10: 0.124752  result: Y
